@@ -1,0 +1,4 @@
+{"timestamp": "2025-04-05 15:55:14", "model_file": "models/model_20250405_155514.keras", "val_loss": 37.352718353271484, "test_loss": 40.3935546875, "num_rows": 17908}
+{"timestamp": "2025-04-05 19:10:11", "model_file": "models/model_20250405_191011.keras", "val_loss": 14.617751121520996, "test_loss": 16.70107078552246, "num_rows": 2860}
+{"timestamp": "2025-04-05 19:13:34", "model_file": "models/model_20250405_191334.keras", "val_loss": 14.502685546875, "test_loss": 17.537452697753906, "num_rows": 2860}
+{"timestamp": "2025-04-05 19:23:54", "model_file": "models/model_20250405_192354.keras", "val_loss": 15.165969848632812, "test_loss": 17.699750900268555, "num_rows": 2860}
